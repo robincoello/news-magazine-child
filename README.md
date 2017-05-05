@@ -1,5 +1,4 @@
-# Child theme 
+# news-magazine-child
 
-# wp-News-Magazine-child
 News Magazine's child theme 
 News Magazine is a responsive, stylish, user-friendly and SEO-friendly theme. Though it has been made especially for multi-category news websites, it is a perfect fit for any website type: landing pages, business portfolio, event site, corporate, personal branding & commercial websites. The theme uses simple, clean flat design; it is responsive, retina ready. Theme back-end built on web-dorado framework is very easy to use. The theme comes equipped with a wide list of customizable features allowing you to make different kind of changes in layout, style, colors and fonts with minimum coding knowledge. The theme has several full-width responsive templates with menu and sidebar layout settings. News Magazine has a large slider for the breaking/current news and dynamic front-page builder. It also showcases images in responsive elegant lightbox with full-screen image slideshow. News Magazine is multilingual ready (WPML), cross-browser compatible, and works fine with major WordPress plugins like JetPack, Contact Form 7, bbPress, WooCommerce and many others. Demo URL: http://themedemo.web-dorado.com/theme-newsmagazine/
