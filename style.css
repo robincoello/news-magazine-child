@@ -1,0 +1,15 @@
+/*
+ Theme Name:   News Magazine Child
+ Theme URI:    http://mande.ec
+ Description:  News Magazine Child Theme
+ Author:       robinson coello
+ Author URI:   http://mande.ec
+ Template:     news-magazine
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  news-magazine-child
+*/
+@import url("../news-magazine/style.css");
+
+/* =Aquí empieza la personalización de tu tema
+-------------------------------------------------------------- */
